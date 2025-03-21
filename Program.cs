@@ -22,6 +22,7 @@
         Console.WriteLine((int)employeeType); // 2
         int employeeTwoType = (int) EmployeeType.Worker;
         Console.WriteLine(employeeTwoType); // 8
+        Console.WriteLine("Get back to work!");
 
         
     } 
