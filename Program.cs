@@ -24,6 +24,9 @@
         Console.WriteLine(employeeTwoType); // 8
         Console.WriteLine("Get back to work!");
 
+        Console.WriteLine("I am loving C# again!");
+        
+
         
     } 
 }
