@@ -25,6 +25,10 @@
         Console.WriteLine("Get back to work!");
 
         Console.WriteLine("I am loving C# again!");
+
+        
+        Console.WriteLine("Yes, I am really loving C# again!");
+        Console.WriteLine("Java still rocks!");
         
 
         
