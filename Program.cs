@@ -19,6 +19,8 @@
 
         Console.WriteLine((int)employeeType);
 
+        Console.WriteLine(employeeType.ToString());
+
         var myTuple = (42, "Hello", true);
         Console.WriteLine(myTuple);
 
@@ -31,6 +33,11 @@
         Console.WriteLine(personInfo2);
 
 
+        // iterate through enum values
+        foreach (var e in Enum.GetValues(typeof(EmployeeType)))
+        {
+            Console.WriteLine(e);
+        }
 
     }
 
